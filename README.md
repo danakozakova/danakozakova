@@ -18,7 +18,7 @@ time series, machine learning
   conjugate models, posterior analysis
 - **[time-series-glycemia](TBD)** — time series analysis of glucose
   data from a type 1 diabetes patient
-- **[machine-learning-project](TBD)** — *(doplň jednovetový popis)*
+- **[machine-learning-project](TBD)** — *(TBD)*
 - **[python-course-materials](TBD)** — notebooks from the Python
   course I taught at Coders Lab
 
