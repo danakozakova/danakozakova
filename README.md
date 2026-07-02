@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**danakozakova/danakozakova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Dana 👋
 
-Here are some ideas to get you started:
+Statistician & data analyst with many years of experience in statistics,
+currently completing a Master's in Mathematical-Statistical Methods in
+Economics at Masaryk University (Brno).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've spent years explaining math and statistics to others — as a tutor,
+lecturer, and consultant for research teams in healthcare and sports.
+Now I build data projects in **R** and **Python**.
+
+### 🔧 What I work with
+`R` `Python` `SQL` `MATLAB` — econometrics, Bayesian inference,
+time series, machine learning
+
+### 📊 Selected projects
+- **[bayesian-analysis-r](TBD)** — Bayesian modeling in R: MCMC,
+  conjugate models, posterior analysis
+- **[time-series-glycemia](TBD)** — time series analysis of glucose
+  data from a type 1 diabetes patient
+- **[machine-learning-project](TBD)** — *(doplň jednovetový popis)*
+- **[python-course-materials](TBD)** — notebooks from the Python
+  course I taught at Coders Lab
+
+### 🎓 Currently
+Working on my thesis: comparing missing data imputation methods
+(MICE, gradient boosting) · Teaching math & statistics
+
+### 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/dana-koz%C3%A1kov%C3%A1-8a766759/) · [hodinovaucitelka.sk](https://hodinovaucitelka.sk)
