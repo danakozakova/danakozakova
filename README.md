@@ -16,9 +16,9 @@ time series, machine learning
 ### 📊 Selected projects
 - **[bayesian-analysis-r](TBD)** — Bayesian modeling in R: MCMC,
   conjugate models, posterior analysis
-- **[time-series-glycemia](/time-series-econometrics)** — time series analysis of glucose
+- **[time-series-glycemia](https://github.com/danakozakova/time-series-econometrics)** — time series analysis of glucose
   data from a type 1 diabetes patient
-- **[machine-learning-project](/MachineLearningProjekt)** — *forecast of raining in Australia*
+- **[machine-learning-project](https://github.com/danakozakova//MachineLearningProjekt)** — *forecast of raining in Australia*
 - **[python-course-materials](TBD)** — notebooks from the Python
   course I taught at Coders Lab
 
