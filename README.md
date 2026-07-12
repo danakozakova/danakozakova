@@ -16,7 +16,7 @@ time series, machine learning
 ### 📊 Selected projects
 - **[bayesian-analysis-r](TBD)** — Bayesian modeling in R: MCMC,
   conjugate models, posterior analysis
-- **[time-series-glycemia](TBD)** — time series analysis of glucose
+- **[time-series-glycemia](https://github.com/danakozakova/time-series-econometrics)** — time series analysis of glucose
   data from a type 1 diabetes patient
 - **[machine-learning-project](TBD)** — *(TBD)*
 - **[python-course-materials](TBD)** — notebooks from the Python
