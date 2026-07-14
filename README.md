@@ -26,7 +26,7 @@ econometrics, Bayesian inference, time series, machine learning, database design
 - **[Econometrics](https://github.com/danakozakova/econometrics)** & **[time series](https://github.com/danakozakova/time-series-econometrics)** — CAPM, Okun's law, the New Keynesian Phillips Curve, ARMA forecasting with Diebold-Mariano tests.
 
 ### 🏫 Teaching & data
-- **[Quo vadis, Orava schools?](https://github.com/danakozakova/quo-vadis-orava-schools)** — a self-initiated project: I designed and built a SQL Server database of schools in my home region and analyzed it in R. Where my teaching and data lives meet.
+- **[Quo vadis, Orava schools?](https://github.com/danakozakova/SQL-R-quo-vadis-orava-schools)** — a self-initiated project: I designed and built a SQL Server database of schools in my home region and analyzed it in R. Where my teaching and data lives meet.
 - **[Python course materials](https://github.com/danakozakova/Python-CodersLab)** — notebooks from the data-analysis course I taught at Coders Lab.
 
 
