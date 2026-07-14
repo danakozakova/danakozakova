@@ -30,9 +30,9 @@ econometrics, Bayesian inference, time series, machine learning, database design
 - **[Python course materials](https://github.com/danakozakova/Python-CodersLab)** — notebooks from the data-analysis course I taught at Coders Lab.
 
 
-### 🎓 Currently
+## Currently
 Working on my thesis: comparing missing data imputation methods
 (MICE, gradient boosting) · Teaching math & statistics
 
-### 📫 Reach me
+## Reach me
 [LinkedIn](https://www.linkedin.com/in/dana-koz%C3%A1kov%C3%A1-8a766759/) · [hodinovaucitelka.sk](https://hodinovaucitelka.sk)
