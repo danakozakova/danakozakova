@@ -14,7 +14,7 @@ Now I build data projects in **R** and **Python**.
 time series, machine learning
 
 ### 📊 Selected projects
-- **[bayesian-analysis-r](bayes-rules)** — Bayesian modeling in R: MCMC,
+- **[bayesian-analysis-r](https://github.com/danakozakova/bayes-rules)** — Bayesian modeling in R: MCMC,
   conjugate models, posterior analysis
 - **[time-series-glycemia](https://github.com/danakozakova/time-series-econometrics/tree/main/03-cgm-glucose-analysis)** — time series analysis of glucose
   data from a type 1 diabetes patient
